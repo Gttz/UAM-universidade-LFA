@@ -5,7 +5,7 @@
 - [Python 3](https://www.python.org/downloads/)   
 
 ### Execução
-Executar com Python o arquivo uam.universidade.aps.lfa.py
+Executar com Python o arquivo 
 
 ```python3 universidade.aps.lfa.py```  
 
